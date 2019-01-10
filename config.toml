@@ -1,0 +1,4 @@
+baseURL = "https://king6cong.github.io"
+languageCode = "en-us"
+title = "king6cong"
+theme = "beautifulhugo"
